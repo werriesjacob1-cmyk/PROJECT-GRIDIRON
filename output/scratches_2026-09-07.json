@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-07",
+  "checked_at": "2026-09-07T00:17:05.646399",
+  "n_scratched": 0,
+  "n_unknown": 6,
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Atlanta Braves @ Philadelphia Phillies \u2014 1st Inning (Both Teams)",
+      "prop": "No runs in the 1st (both teams)",
+      "team": null,
+      "matchup": "Atlanta Braves @ Philadelphia Phillies",
+      "state": "unknown",
+      "note": "lineup not posted yet \u2014 absence proves nothing"
+    },
+    {
+      "rank": 2,
+      "name": "Grayson Rodriguez",
+      "prop": "Over 3.5 Strikeouts",
+      "team": "Los Angeles Angels",
+      "matchup": "Los Angeles Angels @ Boston Red Sox",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 3,
+      "name": "Eury P\u00e9rez",
+      "prop": "Over 3.5 Strikeouts",
+      "team": "Miami Marlins",
+      "matchup": "New York Mets @ Miami Marlins",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 4,
+      "name": "Jonah Tong",
+      "prop": "Over 3.5 Strikeouts",
+      "team": "New York Mets",
+      "matchup": "New York Mets @ Miami Marlins",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 5,
+      "name": "Noah Cameron",
+      "prop": "Over 3.5 Strikeouts",
+      "team": "Kansas City Royals",
+      "matchup": "Arizona Diamondbacks @ Kansas City Royals",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 6,
+      "name": "Robert Gasser",
+      "prop": "Over 3.5 Strikeouts",
+      "team": "Milwaukee Brewers",
+      "matchup": "Chicago Cubs @ Milwaukee Brewers",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 7,
+      "name": "Jacob Lopez",
+      "prop": "Over 13.5 Outs Recorded",
+      "team": "Athletics",
+      "matchup": "Toronto Blue Jays @ Athletics",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 8,
+      "name": "Joey Cantillo",
+      "prop": "Over 14.5 Outs Recorded",
+      "team": "Cleveland Guardians",
+      "matchup": "Cleveland Guardians @ Baltimore Orioles",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 9,
+      "name": "Logan Webb",
+      "prop": "Over 17.5 Outs Recorded",
+      "team": "San Francisco Giants",
+      "matchup": "St. Louis Cardinals @ San Francisco Giants",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 10,
+      "name": "Robert Gasser",
+      "prop": "Over 14.5 Outs Recorded",
+      "team": "Milwaukee Brewers",
+      "matchup": "Chicago Cubs @ Milwaukee Brewers",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 11,
+      "name": "Michael McGreevy",
+      "prop": "Over 15.5 Outs Recorded",
+      "team": "St. Louis Cardinals",
+      "matchup": "St. Louis Cardinals @ San Francisco Giants",
+      "state": "ok",
+      "note": "still the listed starter"
+    },
+    {
+      "rank": 12,
+      "name": "Atlanta Braves @ Philadelphia Phillies \u2014 1st Inning (Both Teams)",
+      "prop": "No runs in the 1st (both teams)",
+      "team": null,
+      "matchup": "Atlanta Braves @ Philadelphia Phillies",
+      "state": "unknown",
+      "note": "lineup not posted yet \u2014 absence proves nothing"
+    },
+    {
+      "rank": 13,
+      "name": "Cleveland Guardians @ Baltimore Orioles \u2014 1st Inning (Both Teams)",
+      "prop": "No runs in the 1st (both teams)",
+      "team": null,
+      "matchup": "Cleveland Guardians @ Baltimore Orioles",
+      "state": "unknown",
+      "note": "lineup not posted yet \u2014 absence proves nothing"
+    },
+    {
+      "rank": 14,
+      "name": "St. Louis Cardinals @ San Francisco Giants \u2014 1st Inning (Both Teams)",
+      "prop": "No runs in the 1st (both teams)",
+      "team": null,
+      "matchup": "St. Louis Cardinals @ San Francisco Giants",
+      "state": "unknown",
+      "note": "lineup not posted yet \u2014 absence proves nothing"
+    },
+    {
+      "rank": 15,
+      "name": "Toronto Blue Jays @ Athletics \u2014 1st Inning (Both Teams)",
+      "prop": "No runs in the 1st (both teams)",
+      "team": null,
+      "matchup": "Toronto Blue Jays @ Athletics",
+      "state": "unknown",
+      "note": "lineup not posted yet \u2014 absence proves nothing"
+    },
+    {
+      "rank": 16,
+      "name": "Chicago Cubs @ Milwaukee Brewers \u2014 1st Inning (Both Teams)",
+      "prop": "No runs in the 1st (both teams)",
+      "team": null,
+      "matchup": "Chicago Cubs @ Milwaukee Brewers",
+      "state": "unknown",
+      "note": "lineup not posted yet \u2014 absence proves nothing"
+    }
+  ]
+}

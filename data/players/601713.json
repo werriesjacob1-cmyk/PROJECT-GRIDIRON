@@ -1,0 +1,38 @@
+{
+  "player_id": 601713,
+  "name": "Nick Pivetta",
+  "snapshots": [
+    {
+      "date": "2026-09-07",
+      "evaluations": [
+        {
+          "prop": "Over 5.5 Strikeouts",
+          "type": "pitcher",
+          "score": 47.7,
+          "notable_signals": 0,
+          "matchup": "Washington Nationals @ San Diego Padres",
+          "game_pk": 823254,
+          "team": "San Diego Padres",
+          "side": null,
+          "lean": null,
+          "combo_player_ids": null,
+          "signals": {
+            "opp_team_k_pct": 47.0,
+            "same_hand_ratio": 100.0,
+            "env_neutral": 50.0
+          },
+          "hit_probability": 0.6014,
+          "raw_hit_probability": 0.6372,
+          "lift": 0.2411,
+          "reliability": "D",
+          "sample_n": 0,
+          "projection": {
+            "stat": "strikeouts",
+            "value": 5.5,
+            "needs": 6
+          }
+        }
+      ]
+    }
+  ]
+}

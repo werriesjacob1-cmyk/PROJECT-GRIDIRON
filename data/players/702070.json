@@ -319,6 +319,65 @@
           }
         }
       ]
+    },
+    {
+      "date": "2026-09-07",
+      "evaluations": [
+        {
+          "prop": "Over 3.5 Strikeouts",
+          "type": "pitcher",
+          "score": 44.3,
+          "notable_signals": 0,
+          "matchup": "Arizona Diamondbacks @ Kansas City Royals",
+          "game_pk": 824062,
+          "team": "Kansas City Royals",
+          "side": null,
+          "lean": null,
+          "combo_player_ids": null,
+          "signals": {
+            "opp_team_k_pct": 24.0,
+            "same_hand_ratio": 0.0,
+            "l14_k_pct": 37.0588,
+            "env_neutral": 50.0
+          },
+          "hit_probability": 0.6186,
+          "raw_hit_probability": 0.7227,
+          "lift": -0.0841,
+          "reliability": "A",
+          "sample_n": 26,
+          "projection": {
+            "stat": "strikeouts",
+            "value": 3.5,
+            "needs": 4
+          }
+        },
+        {
+          "prop": "Over 16.5 Outs Recorded",
+          "type": "pitcher",
+          "score": 31.7,
+          "notable_signals": 0,
+          "matchup": "Arizona Diamondbacks @ Kansas City Royals",
+          "game_pk": 824062,
+          "team": "Kansas City Royals",
+          "side": "home",
+          "lean": null,
+          "combo_player_ids": null,
+          "signals": {
+            "outs_rate": 0.4722,
+            "avg_outs_per_start": 17.0
+          },
+          "hit_probability": 0.4722,
+          "raw_hit_probability": null,
+          "lift": -0.0463,
+          "reliability": "A",
+          "sample_n": 26,
+          "projection": {
+            "stat": "pitcher_outs",
+            "value": 16.5,
+            "needs": 17
+          }
+        }
+      ]
     }
   ]
 }
