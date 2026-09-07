@@ -416,7 +416,7 @@
         {
           "prop": "Over 16.5 Outs Recorded",
           "type": "pitcher",
-          "score": 71.0,
+          "score": 72.8,
           "notable_signals": 1,
           "matchup": "Cleveland Guardians @ Baltimore Orioles",
           "game_pk": 824793,
@@ -425,12 +425,12 @@
           "lean": null,
           "combo_player_ids": null,
           "signals": {
-            "outs_rate": 0.6285,
+            "outs_rate": 0.6253,
             "avg_outs_per_start": 16.65
           },
-          "hit_probability": 0.6285,
+          "hit_probability": 0.6253,
           "raw_hit_probability": null,
-          "lift": 0.11,
+          "lift": 0.1239,
           "reliability": "A",
           "sample_n": 26,
           "projection": {

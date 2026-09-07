@@ -1256,7 +1256,7 @@
         "game_state": "pregame"
       },
       "settlement_authority": "none",
-      "settlement_observed_at": "2026-09-07T00:07:50.982353+00:00",
+      "settlement_observed_at": "2026-09-07T01:12:50.850802+00:00",
       "settlement_source": "durable_morning_status_observation"
     },
     {
@@ -1342,7 +1342,7 @@
         "game_state": "pregame"
       },
       "settlement_authority": "none",
-      "settlement_observed_at": "2026-09-07T00:07:50.982353+00:00",
+      "settlement_observed_at": "2026-09-07T01:12:50.850802+00:00",
       "settlement_source": "durable_morning_status_observation"
     },
     {

@@ -6,7 +6,7 @@
       "date": "2026-09-07",
       "evaluations": [
         {
-          "prop": "Over 3.5 Strikeouts",
+          "prop": "Over 4.5 Strikeouts",
           "type": "pitcher",
           "score": 33.3,
           "notable_signals": 0,
@@ -21,15 +21,15 @@
             "same_hand_ratio": 33.3333,
             "env_neutral": 50.0
           },
-          "hit_probability": 0.624,
-          "raw_hit_probability": 0.7499,
-          "lift": -0.0787,
+          "hit_probability": 0.5872,
+          "raw_hit_probability": 0.5672,
+          "lift": 0.0721,
           "reliability": "D",
           "sample_n": 0,
           "projection": {
             "stat": "strikeouts",
-            "value": 3.5,
-            "needs": 4
+            "value": 4.5,
+            "needs": 5
           }
         }
       ]
