@@ -2,7 +2,7 @@
   "schema_version": 1,
   "identity_schema_version": 2,
   "rollout_version": "pre-phase-v-live-lifecycle-v1",
-  "updated_at": "2026-09-06T18:27:59.815009+00:00",
+  "updated_at": "2026-09-07T00:17:42.526000+00:00",
   "migration": {
     "version": "pre-phase-v-live-lifecycle-v1",
     "completed_at": "2026-08-17T23:14:57+00:00",
@@ -19806,6 +19806,99 @@
         "qualification_timestamp": "2026-09-06T18:24:31.564250+00:00",
         "board_timestamp": "2026-09-06T18:24:31.552181+00:00",
         "slate_date": "2026-09-06"
+      }
+    },
+    "fc2:824958:player-682052:strikeouts:5:over": {
+      "canonical_id": "fc2:824958:player-682052:strikeouts:5:over",
+      "settlement_identity": [
+        "824958",
+        [
+          "player",
+          "682052"
+        ],
+        "strikeouts",
+        "5",
+        "over"
+      ],
+      "slate_date": "2026-09-07",
+      "first_published_at": "2026-09-07T00:17:42.526000+00:00",
+      "publication_provenance": {
+        "artifact_id": "aeb7e592caacd8426b7f1cb68d93d41b9b0b0b0a1470fe03e5bd303d72373f24",
+        "source_commit": "6f713c78b07f683014f800952095d64e1ae1dd70",
+        "workflow_run_id": "34069253283",
+        "deployment_id": null,
+        "deployment_url": "https://werriesjacob1-cmyk.github.io/Full-Count/",
+        "artifact_prepared_at": "2026-09-07T00:17:28.176197+00:00",
+        "data_hash": "f5aa68e68c6009898bd0ede128e056106068e9ff0f7f15995f93e87d73e5272a",
+        "live_hash": "b652630e3d0a56f4eab5603360ac3fa7ac95b59c13d57349e312d9fbf0357805"
+      },
+      "snapshot": {
+        "id": "fc2:824958:player-682052:strikeouts:5:over",
+        "identity_version": 2,
+        "game_pk": 824958,
+        "player_id": 682052,
+        "combo_player_ids": null,
+        "type": "pitcher",
+        "name": "Jacob Lopez",
+        "team": "Athletics",
+        "matchup": "Toronto Blue Jays @ Athletics",
+        "game_start": "2026-09-08T02:05:00Z",
+        "stat": "strikeouts",
+        "market_side": "over",
+        "lean": null,
+        "projection": {
+          "stat": "strikeouts",
+          "value": 4.5,
+          "needs": 5
+        },
+        "prop": "Over 4.5 Strikeouts",
+        "hit_probability": 0.6083,
+        "market_odds": 114,
+        "market_implied": 0.4405,
+        "market_edge": 0.1678,
+        "market_hold": 0.0608,
+        "price_clears": true,
+        "recommendation_status": "top_pick",
+        "status_reasons": [
+          "clears the real probability floor (>= 60%), a real evidence grade (A), a confirmed lineup, live pricing, and the price/value test at the pessimistic end of its own interval",
+          "note: the market itself disagrees with this read (17.6 points from the market \u2014 a large disagreement with a sharper estimator is far more often a gap in the model than an edge in the market) \u2014 still a Top Pick on the model's own probability and price test, but size with that in mind"
+        ],
+        "why": [
+          "Expected workload 23.3 batters faced (his own 23.5/start over 2 real starts, shrunk toward the 23.1 league mean)",
+          "Platoon advantage: 6 of 8 projected hitters bat left-handed against this LHP",
+          "L14 K% 27.7 (47 PA) \u2014 hot recent form",
+          "Recency-weighted K rate 28.2% (exp. decay, halflife 30d, 20 real starts / 426 BF) \u2014 drives a favorable strikeout-probability read"
+        ],
+        "watchouts": [
+          "Significant TTO K% drop-off (TTO1 36.4% -> TTO3 17.9%) \u2014 caution deep into the start",
+          "Workload estimate rests on only 2 starts in the L14 window \u2014 most start-to-start variation in batters faced is noise, so this is shrunk heavily toward league average",
+          "Opposing team K% 19.2 \u2014 contact-oriented lineup, tougher matchup"
+        ],
+        "prob_ci": [
+          0.5789,
+          0.6968
+        ],
+        "reliability": "A",
+        "reliability_note": null,
+        "sample_n": 20,
+        "lineup_assumed": null,
+        "base_rate": 0.5151,
+        "lift": 0.0932,
+        "lift_reference_rate": null,
+        "stable_lift": null,
+        "versions": {
+          "model_version": "2026.08.15",
+          "selection_policy_version": "1.0.0",
+          "calibration_version": "1.0.0",
+          "feature_version": "1.0.0",
+          "git_sha": "948d0536",
+          "prediction_timestamp": "2026-09-07T00:14:05.844651+00:00",
+          "odds_fetched_at": "2026-09-07T00:14:02.298179+00:00",
+          "board_generated_at": "2026-09-07T00:14:05.836365+00:00"
+        },
+        "qualification_timestamp": "2026-09-07T00:14:05.844651+00:00",
+        "board_timestamp": "2026-09-07T00:14:05.836365+00:00",
+        "slate_date": "2026-09-07"
       }
     }
   }
